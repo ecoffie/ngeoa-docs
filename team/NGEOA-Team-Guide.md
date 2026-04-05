@@ -4,98 +4,91 @@
 
 ---
 
+## Team Roles
+
+| Person | Role | Responsibilities |
+|--------|------|------------------|
+| **Cynthia Hughes** | Church Liaison | Church docs, facility, Foster Parent Association |
+| **Eric Coffie** | Technology | Website, registrations, tech setup |
+| **Brian** | Outreach | Employer contacts, CareerSource, grant applications |
+| **Earl Coffie Jr.** | Lead Instructor | Credentials, training facility, curriculum delivery |
+
+---
+
 ## Quick Links
 
 | Document | What It's For |
 |----------|---------------|
-| **NGEOA-Task-Tracker.csv** | Import to Google Sheets - all team tasks |
-| **OSHA-10-Delivery-Options.md** | Call CareerSafe for $25-37/student pricing |
-| **Miami-Employer-Targets.md** | 27 companies to contact for partnerships |
-| **Florida-ETPL-Requirements.md** | CareerSource meeting prep |
-| **Google-Search-Console-Setup.md** | Website SEO setup instructions |
+| **NGEOA-Task-Tracker.csv** | All team tasks by person |
+| **NGEOA-All-Grants.csv** | 35 grants sorted by deadline |
+| **NGEOA-Employer-Outreach.csv** | 27 companies to contact |
+| **Earl-Coffie-Jr-Instructor-Credentials.md** | Earl's certification checklist |
+| **Foster-Youth-Partnership.md** | Foster youth strategy |
 
 ---
 
-## How to Use the Task Tracker
+## This Week's Critical Tasks
 
-### Step 1: Import to Google Sheets
-1. Go to Google Drive
-2. Click **New → Google Sheets → Blank spreadsheet**
-3. Click **File → Import**
-4. Upload `NGEOA-Task-Tracker.csv`
-5. Select "Replace spreadsheet" → Click **Import data**
+### Cynthia (Church)
+- [ ] Get 501(c)(3) determination letter from church - **CRITICAL**
+- [ ] Get church liability insurance certificate - **CRITICAL**
+- [ ] Get Letter of Support from Foster Parent Association - **HIGH**
+- [ ] Confirm church facility available for training - **HIGH**
 
-### Step 2: Assign Tasks
-1. Add team member names in the "Assigned To" column
-2. Set due dates
-3. Update status as work progresses:
-   - Not Started
-   - In Progress
-   - Waiting (on someone else)
-   - Complete
+### Eric (Technology)
+- [ ] Register on SAM.gov (get UEI number) - **CRITICAL**
+- [ ] Register on Grants.gov - **CRITICAL**
+- [ ] Set up CareerSafe OSHA 10 account (888.614.7233) - **HIGH**
+- [ ] Set up Google Search Console for ngeoacademy.org - **MEDIUM**
 
-### Step 3: Share with Team
-1. Click **Share** button (top right)
-2. Add team member emails
-3. Set permission to "Editor"
+### Brian (Outreach)
+- [ ] Call CareerSource South Florida (305) 594-7615 - **CRITICAL**
+- [ ] Contact Reliable Excavating Inc (Homestead) - **HIGH**
+- [ ] Apply to Home Depot Path to Pro grant ($10K) - **HIGH**
 
----
-
-## Priority Tasks This Week
-
-### 1. CareerSource Meeting (CRITICAL)
-**Who:** Program Director
-**Call:** (305) 594-7615
-**Ask:**
-- Do faith-based nonprofits need CIE licensure?
-- Can we get conditional ETPL approval as a new program?
-- What documents do you need from us?
-- Timeline for approval?
-
-### 2. OSHA 10 Provider Setup
-**Who:** [Assign]
-**Call:** CareerSafe at 888.614.7233
-**Email:** orders@careersafeonline.com
-**Ask:**
-- Nonprofit/educational pricing (should be $25-37/student vs $59 retail)
-- Bulk enrollment discount for 10+ students
-- How to set up organizational account
-- Timeline for DOL card delivery (should be 2 days)
-
-### 3. Employer Outreach (Start with 5)
-**Who:** [Assign]
-**Target:** Get 10 Letters of Support before ETPL application
-
-**Talking Points:**
-- Free trained operators (grant-funded, no cost to hire)
-- OSHA 10 certified graduates
-- Just asking them to agree to interview our graduates
-- No obligation to hire
-
-**Email template is in:** `Miami-Employer-Targets.md`
+### Earl (Credentials)
+- [ ] Find copy of heavy equipment operator certification - **CRITICAL**
+- [ ] Update resume with work history and equipment types - **CRITICAL**
+- [ ] Verify OSHA 10 certification is current - **CRITICAL**
 
 ---
 
 ## Key Contacts
 
-| Organization | Phone | For What |
-|--------------|-------|----------|
-| CareerSource South Florida | (305) 594-7615 | WIOA/ETPL funding |
-| CareerSafe (OSHA 10) | 888.614.7233 | Training provider setup |
-| FL Commission for Independent Education | (850) 245-3200 | Licensure questions |
+| Organization | Phone | Who Calls | Purpose |
+|--------------|-------|-----------|---------|
+| CareerSource South Florida | (305) 594-7615 | Brian | WIOA/ETPL funding |
+| CareerSafe (OSHA 10) | 888.614.7233 | Eric | Training provider setup |
+| FL Commission for Independent Education | (850) 245-3200 | Brian | Licensure questions |
+| Home Depot Foundation | corporate.homedepot.com/grants | Brian | $10K grant |
 
 ---
 
 ## Documents to Gather
 
-Before the CareerSource meeting, collect:
-
-- [ ] 501(c)(3) determination letter (from church)
-- [ ] FL business registration or exemption letter
-- [ ] Instructor resumes with certifications
-- [ ] Training facility photos
-- [ ] Equipment inventory list
+### From Church (Cynthia)
+- [ ] 501(c)(3) IRS determination letter
 - [ ] Liability insurance certificate
+- [ ] Facility use agreement or confirmation
+- [ ] Florida nonprofit registration (if applicable)
+
+### From Earl
+- [ ] Heavy equipment operator certification (copy)
+- [ ] OSHA 10/30 card (copy)
+- [ ] Updated resume with equipment types
+- [ ] Photos operating equipment
+- [ ] Reference letters from past employers
+
+### Eric Sets Up
+- [ ] SAM.gov registration (UEI number)
+- [ ] Grants.gov account
+- [ ] CareerSafe organizational account
+- [ ] Google Search Console
+
+### Brian Collects
+- [ ] 10+ Employer Letters of Support
+- [ ] CareerSource meeting confirmation
+- [ ] Grant applications submitted
 
 ---
 
@@ -103,16 +96,59 @@ Before the CareerSource meeting, collect:
 
 **Live at:** https://ngeoacademy.org
 
-Pages:
-- Homepage - Program overview
-- /program - Full curriculum details
-- /apply - Student application form
-- /employers - Partnership info
-- /about - Organization background
-- /contact - Contact form
+| Page | URL |
+|------|-----|
+| Homepage | ngeoacademy.org |
+| Program Details | ngeoacademy.org/program |
+| Apply | ngeoacademy.org/apply |
+| Partners | ngeoacademy.org/partners |
+| FAQ | ngeoacademy.org/faq |
+| About | ngeoacademy.org/about |
+| Employers | ngeoacademy.org/employers |
+| Contact | ngeoacademy.org/contact |
+
+**GitHub Repos:**
+- Website code: github.com/ecoffie/ngeoa-website
+- Documentation: github.com/ecoffie/ngeoa-docs
+
+---
+
+## Grant Deadlines (Next 90 Days)
+
+| Grant | Deadline | Amount | Owner |
+|-------|----------|--------|-------|
+| SkillsUSA Scholarship (Student) | April 17, 2026 | $2,500 | Students |
+| Home Depot Path to Pro | Rolling | $10,000 | Brian |
+| CareerSource WIOA Youth | Rolling | Varies | Brian |
+| USDA Rural Development | June 30, 2026 | $300K | Check eligibility |
+| Workforce Pell | July 1, 2026 | $4,310/student | Eric (setup) |
+
+---
+
+## How to Use Google Sheets
+
+### Task Tracker
+1. Import `NGEOA-Task-Tracker.csv`
+2. Filter by "Assigned To" to see your tasks
+3. Update "Status" as you complete items
+
+### Grants Tracker
+1. Import `NGEOA-All-Grants.csv`
+2. Sort by "Deadline Date" column
+3. Filter by "Status" = "OPEN NOW" for immediate opportunities
+
+### Employer Outreach
+1. Import `NGEOA-Employer-Outreach.csv`
+2. Update status as Brian makes contacts
+3. Track Letters of Support received
 
 ---
 
 ## Questions?
 
-Contact Eric Coffie or check the reference documents in the `/docs/research/` folder.
+| Topic | Contact |
+|-------|---------|
+| Church/Facility | Cynthia |
+| Website/Tech | Eric |
+| Employers/Grants | Brian |
+| Training/Curriculum | Earl |

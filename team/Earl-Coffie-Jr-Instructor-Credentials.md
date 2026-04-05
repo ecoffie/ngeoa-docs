@@ -1,7 +1,16 @@
 # Earl Coffie Jr. - Instructor Credentials Checklist
 
 **Purpose:** Document qualifications for ETPL application and program credibility
+**Owner:** Earl Coffie Jr.
 **Status:** In Progress
+
+---
+
+## This Week's Tasks (CRITICAL)
+
+- [ ] Find copy of heavy equipment operator certification
+- [ ] Update resume with work history and equipment types
+- [ ] Verify OSHA 10 certification is current (get copy of DOL card)
 
 ---
 
@@ -46,7 +55,7 @@
 
 ## Documents to Gather
 
-### Required for ETPL Application
+### Required for ETPL Application (This Week)
 | Document | Status | Location |
 |----------|--------|----------|
 | Operator certification (copy) | [ ] Obtained | |
@@ -54,82 +63,16 @@
 | OSHA 10/30 card (copy) | [ ] Obtained | |
 | Government-issued ID | [ ] Copy made | |
 
-### Helpful for Credibility
+### Helpful for Credibility (Next 2 Weeks)
 | Document | Status | Location |
 |----------|--------|----------|
 | Letters from past employers | [ ] Requested | |
 | Photos operating equipment | [ ] Collected | |
 | Any training certificates | [ ] Gathered | |
-| Union membership (if any) | [ ] Documented | |
 
 ---
 
-## Optional Certifications to Consider
-
-### OSHA Outreach Trainer (Teach OSHA 10 In-House)
-
-**Why:** Save $25-37/student, add credibility, issue DOL cards directly
-
-**Requirements:**
-1. OSHA #510 - Occupational Safety and Health Standards for Construction
-   - Cost: ~$845
-   - Duration: 4 days
-   - Prerequisite: 5 years construction safety experience OR degree + 3 years
-
-2. OSHA #500 - Trainer Course in OSHA Standards for Construction
-   - Cost: ~$845
-   - Duration: 4 days
-   - Prerequisite: Must complete #510 first
-
-**2026 Florida Training Dates:**
-- March 23-26: Jacksonville
-- June 8-11: Wesley Chapel
-- June 22-25: Orlando
-- August 24-27: Fort Lauderdale
-
-**Total Investment:** ~$1,700 + travel
-**Break-even:** ~30 students at $50/student savings
-
-**Provider:** USF OSHA Training Institute Education Center
-- Email: usfotiec-outreach@usf.edu
-- Website: usfosha.org
-
----
-
-### NCCER Instructor Certification
-
-**Why:** Industry-recognized curriculum, students get portable NCCER credentials
-
-**Requirements:**
-1. Craft certification in teaching area OR
-2. Journeyman-level experience (4+ years documented)
-3. Complete Instructor Certification Training Program (ICTP)
-   - Duration: 40 hours (1 week)
-   - Cost: ~$1,500
-
-**Provider:** NCCER-accredited training sponsor
-- Find sponsors: nccer.org/training-locations
-
-**Note:** Recommended for Year 2+ once program is established
-
----
-
-### Train-the-Trainer Course
-
-**Why:** Learn adult teaching methods, classroom management
-
-**Options:**
-| Provider | Cost | Duration | Format |
-|----------|------|----------|--------|
-| OSHA Education Center | $400-600 | 2 days | In-person |
-| Online providers | $100-300 | Self-paced | Online |
-| Community college | $200-400 | 1-2 days | In-person |
-
-**Recommended if:** Earl has limited teaching experience
-
----
-
-## Instructor Resume Template
+## Resume Template
 
 ```
 EARL COFFIE JR.
@@ -160,10 +103,6 @@ Heavy Equipment Operator | [Start Date] - [End Date]
 [Title] | [Start Date] - [End Date]
 - [Responsibilities]
 
-TRAINING & EDUCATION
-- [Any relevant training]
-- [High school/trade school if applicable]
-
 SKILLS
 - Equipment operation and maintenance
 - Site safety protocols
@@ -173,20 +112,47 @@ SKILLS
 
 ---
 
-## Timeline
+## Optional Certifications (Year 2+)
 
-| Task | Target Date | Status |
-|------|-------------|--------|
-| Gather all current certifications | | [ ] |
-| Update resume | | [ ] |
-| Request employer reference letters | | [ ] |
-| Compile equipment photos | | [ ] |
-| Research OSHA 500 course dates | | [ ] |
-| Decision on OSHA Trainer certification | | [ ] |
+### OSHA Outreach Trainer (Teach OSHA 10 In-House)
+
+**Why:** Save $25-37/student, add credibility, issue DOL cards directly
+
+**Requirements:**
+1. OSHA #510 - Construction Safety Standards (~$845, 4 days)
+2. OSHA #500 - Trainer Course (~$845, 4 days)
+3. Prerequisite: 5 years construction safety experience
+
+**2026 Florida Training Dates:**
+- June 8-11: Wesley Chapel
+- June 22-25: Orlando
+- August 24-27: Fort Lauderdale (closest to Miami)
+
+**Total Investment:** ~$1,700 + travel
+**Break-even:** ~30 students at $50/student savings
+
+**Provider:** USF OSHA Training Institute Education Center
+- Email: usfotiec-outreach@usf.edu
 
 ---
 
-## Notes
+## Training Facility Documentation (Next 2 Weeks)
 
-_Use this space for additional information:_
+Earl to document:
+- [ ] Photos of training area
+- [ ] Equipment inventory list with make/model
+- [ ] Safety equipment available
+- [ ] Classroom/instruction space
 
+---
+
+## Timeline
+
+| Task | Due | Status |
+|------|-----|--------|
+| Find operator certification | This Week | [ ] |
+| Update resume | This Week | [ ] |
+| Verify OSHA 10 current | This Week | [ ] |
+| Gather equipment photos | 2 Weeks | [ ] |
+| Request employer references | 2 Weeks | [ ] |
+| Document training facility | 2 Weeks | [ ] |

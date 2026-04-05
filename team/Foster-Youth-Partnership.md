@@ -1,8 +1,21 @@
 # NGEOA Foster Youth Partnership Strategy
 
 **Partner:** Foster Parent Association of Miami
-**Contact:** Cynthia Hughes
+**Church Liaison:** Cynthia Hughes
 **Date:** April 2026
+
+---
+
+## Team Responsibilities
+
+| Task | Owner |
+|------|-------|
+| Letter of Support from FPA | Cynthia |
+| DCF/Guardian ad Litem contacts | Cynthia |
+| Identify interested foster youth | Cynthia |
+| Church facility confirmation | Cynthia |
+| Foster youth grant applications | Brian |
+| Student intake process | Eric (forms) |
 
 ---
 
@@ -33,16 +46,34 @@
 
 ---
 
+## Cynthia's Action Items
+
+### This Week (CRITICAL)
+- [ ] Get Letter of Support from Foster Parent Association (template provided)
+- [ ] Confirm church facility available for training
+
+### Next 2 Weeks
+- [ ] Identify 5-10 interested youth ages 18-24
+- [ ] Get contact at DCF Independent Living Program
+- [ ] Get contact at Guardian ad Litem
+- [ ] Share NGEOA flyer with foster parent network
+
+### Ongoing
+- [ ] Connect NGEOA with Independent Living Programs (ILP)
+- [ ] Coordinate referrals from foster care network
+
+---
+
 ## Referral Network to Build
 
-### Primary Partners
+### Primary Partners (Cynthia to Connect)
 
 | Organization | Contact | Role |
 |--------------|---------|------|
 | Foster Parent Association of Miami | Cynthia Hughes | Student referrals, Letter of Support |
 | FL DCF Independent Living Program | [Get contact] | Referrals for 18-21 year olds |
 | Guardian ad Litem Program | [Get contact] | Youth advocacy, referrals |
-| Our Kids of Miami-Dade | [Get contact] | Lead agency for foster care |
+| Our Kids of Miami-Dade | (305) 455-1000 | Lead agency for foster care |
 
 ### Secondary Partners
 
@@ -72,40 +103,36 @@
 
 ---
 
-## Support Services for Foster Youth
+## Student Funding (Foster Youth Can Stack)
 
-Foster youth often need additional support. NGEOA should consider:
-
-| Service | Provider | Notes |
-|---------|----------|-------|
-| Transportation assistance | NGEOA / Grant funds | Gas cards, bus passes |
-| Work gear/boots | NGEOA / Grant funds | Safety equipment |
-| Emergency assistance | Partner referral | Rent, utilities, food |
-| Housing support | Covenant House, Miami Bridge | If needed |
-| Case management | DCF Independent Living | Ongoing support |
+| Source | Amount/Year | Who Applies |
+|--------|-------------|-------------|
+| Workforce Pell | $4,310 | Student (FAFSA) |
+| Road to Independence (FL) | $5,000 | Student (DCF) |
+| Education Training Voucher | $5,000 | Student (DCF) |
+| FL Tuition Exemption | 100% tuition | Student (financial aid) |
+| **TOTAL POTENTIAL** | **$14,310+/year** | |
 
 ---
 
-## Marketing to Foster Youth
+## Grant Implications
 
-### Messaging That Works
-- "Free training, real career" (no debt, no tuition)
-- "Earn $18-25/hour" (concrete outcome)
-- "8 weeks to a new life" (short commitment)
-- "We support you" (wraparound services)
+Serving foster youth unlocks these funding sources (Brian to pursue):
 
-### Channels
-- Foster Parent Association newsletter/meetings
-- DCF Independent Living case managers
-- Social media (Instagram, TikTok)
-- Community events
-- Word of mouth from graduates
+| Grant/Program | Amount | Why Foster Youth Helps |
+|---------------|--------|------------------------|
+| WIOA Youth (CareerSource) | Up to $10K/student | Foster youth = automatic eligibility |
+| Chafee Education & Training Vouchers | $5,000/year | Exclusively for foster youth |
+| DOL YouthBuild | $1M-$2M | Foster youth priority population |
+| Walter S. Johnson Foundation | $10K-$400K | Foster youth workforce focus |
+| Conrad Hilton Foundation | $100K+ | Foster youth career pathways |
+| Annie E. Casey Foundation | $50K-$200K | Foster youth systems change |
 
 ---
 
 ## Tracking & Reporting
 
-### Data to Collect
+### Data to Collect (Eric to set up forms)
 For grant reporting, track foster youth separately:
 
 | Metric | Definition |
@@ -117,57 +144,18 @@ For grant reporting, track foster youth separately:
 | Starting wage | Average hourly wage at placement |
 | 6-month retention | # still employed at 6 months |
 
-### Reporting Schedule
-- Monthly: Enrollment and progress updates to Cynthia/FPA
-- Quarterly: Outcomes report for grant funders
-- Annually: Impact summary for all partners
-
----
-
-## Grant Implications
-
-Serving foster youth unlocks these funding sources:
-
-| Grant/Program | Amount | Why Foster Youth Helps |
-|---------------|--------|------------------------|
-| WIOA Youth (CareerSource) | Up to $10K/student | Foster youth = automatic eligibility |
-| Chafee Education & Training Vouchers | $5,000/year | Exclusively for foster youth |
-| DOL YouthBuild | $700K-1.5M | Foster youth priority population |
-| Jim Casey Youth Opportunities | Varies | Foster youth workforce focus |
-| Annie E. Casey Foundation | Varies | Foster youth systems change |
-| Florida DCF Independent Living | Per-student | Extended foster care training funds |
-
----
-
-## Action Items
-
-### Cynthia Hughes - Immediate
-- [ ] Draft Letter of Support (template provided)
-- [ ] Identify 5-10 interested youth ages 18-24
-- [ ] Get contact at DCF Independent Living Program
-- [ ] Share NGEOA flyer with foster parent network
-
-### NGEOA Team - Short Term
-- [ ] Create foster youth intake form
-- [ ] Establish documentation verification process
-- [ ] Connect with Our Kids of Miami-Dade
-- [ ] Add foster youth track to grant applications
-
 ---
 
 ## Contact Information
 
 **Foster Parent Association of Miami**
-- Website: [Get from Cynthia]
 - Contact: Cynthia Hughes
 - Role: Student referrals, community partner
 
 **Our Kids of Miami-Dade/Monroe** (Lead foster care agency)
 - Phone: (305) 455-1000
 - Website: ourkids.us
-- Service: Case management, referrals
 
 **Florida DCF - Southern Region**
 - Phone: (305) 377-5000
 - Website: myflfamilies.com
-- Service: Independent Living Program
